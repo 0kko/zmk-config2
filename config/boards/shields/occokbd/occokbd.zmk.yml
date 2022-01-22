@@ -1,0 +1,12 @@
+file_format: "1"
+id: occokbd
+name: Occo KBD
+type: shield
+url: https://www.occosolutions.fi/occokbd
+requires: [pro_micro]
+exposes:
+features:
+  - keys
+siblings:
+  - occokbd_left
+  - occokbd_right
